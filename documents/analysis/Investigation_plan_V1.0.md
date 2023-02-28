@@ -72,4 +72,4 @@ Our analysis process is intended to be completed in two weeks, having started wi
 
 *Díaz-Bravo, Laura, Torruco-García, Uri, Martínez-Hernández, Mildred, & Varela-Ruiz, Margarita. (2013). La entrevista, recurso flexible y dinámico. Investigación en educación médica , 2 (7), 162-167. Recuperado en 17 de febrero de 2023, de http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S2007-50572013000300009&lng=es&tlng=es.*
 
-[Review of problems and proposals](Investigation%20plan%20201630fc3d224a29b361427ab35e4310/Review%20of%20problems%20and%20proposals%20e5665548b4e24422b52aa1f3faddffc7.md)
+[Review of problems and proposals](https://github.com/Teodoro-lab/HCI/blob/main/documents/analysis/revision_de_%20problem%C3%A1tica_V1.0.md)
