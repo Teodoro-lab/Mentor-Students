@@ -1,5 +1,4 @@
-# The lack of mentor-students in the faculty of mathematics UADY
-## Human Computer Interaction 🤖
+# **The lack of mentor-students in the faculty of mathematics UADY**<br/>Human Computer Interaction 🤖
 
 ## Description
 This repository serves as our method of managing the many versions of our documentation.
@@ -17,7 +16,7 @@ the last version of of our documents and binnacles corresponding to our weekly s
 
 ## Team members
 
-- Manuel Antonio Cituk Martinez
+- Manuel Antonio Cituk Martinez 
 - Daniel Pliego Vega
 - Gabriel Nayib Castul Lazo
 - Jorge Teodoro Dawn Rodriguez
