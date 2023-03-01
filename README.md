@@ -24,4 +24,4 @@ the last version of of our documents and binnacles corresponding to our weekly s
 
 
 ## Deliveries
-- [First deliverie](https://github.com/Teodoro-lab/Mentor-Students/blob/main/deliveries/Entrega_1.mp4)
+- [First deliverie](https://youtu.be/GRT4GgItr1A)
