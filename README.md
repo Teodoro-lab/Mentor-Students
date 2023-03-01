@@ -22,3 +22,7 @@ the last version of of our documents and binnacles corresponding to our weekly s
 - Gabriel Nayib Castul Lazo
 - Jorge Teodoro Dawn Rodriguez
 - Roberto Isaac Arellano Enriquez
+
+
+## Deliveries
+- [First deliverie](https://github.com/Teodoro-lab/Mentor-Students/blob/main/deliveries/Entrega_1.mp4)
