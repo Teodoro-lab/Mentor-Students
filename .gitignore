@@ -1,0 +1,3 @@
+bugo/env/
+bugo/.env
+*/__pycache__/
