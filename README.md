@@ -25,5 +25,5 @@ the last version of of our documents and binnacles corresponding to our weekly s
 
 ## Deliveries
 - [First delivery](https://youtu.be/GRT4GgItr1A)
-- [Final delivery]
-(https://youtu.be/2Oy4FWwaD2s)
+- [Final delivery](https://youtu.be/2Oy4FWwaD2s)
+
