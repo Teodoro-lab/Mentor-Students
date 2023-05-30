@@ -36,7 +36,7 @@ async def on_ready():
 
 @bot.command(name='helpme')
 async def help(ctx):
-    await ctx.send('Chingar a su madre SQA')
+    await ctx.send('HELP_MESSAGE')
 
 
 @bot.command(name='msg')
